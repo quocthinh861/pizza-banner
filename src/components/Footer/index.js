@@ -27,7 +27,7 @@ const Footer = () => {
                             <SocialIconlink href='/'>
                                 <FaYoutube />
                             </SocialIconlink>
-                            <SocialIconlink href='//www.facebook.com'>
+                            <SocialIconlink href='/'>
                                 <FaTwitter />
                             </SocialIconlink>
                             <SocialIconlink href='/'>
