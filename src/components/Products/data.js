@@ -13,7 +13,7 @@ export const productData = [
       desc:
         'Marinara sauce, basil, italian sausage, roma tomatoes, olives, and pesto',
       price: '$19.99',
-      button: 'Add to Cart'
+      button: 'Đặt ngay'
     },
     {
       img: product2,
@@ -22,7 +22,7 @@ export const productData = [
       desc:
         ' Marinara sauce, basil, italian sausage, roma tomatoes, olives, and pesto',
       price: '$16.99',
-      button: 'Add to Cart'
+      button: 'Đặt ngay'
     },
     {
       img: product3,
@@ -31,7 +31,7 @@ export const productData = [
       desc:
         ' Marinara sauce, basil, italian sausage, roma tomatoes, olives, and pesto',
       price: '$14.99',
-      button: 'Add to Cart'
+      button: 'Đặt ngay'
     }
   ];
 
@@ -43,7 +43,7 @@ export const productData = [
       desc:
         'Marinara sauce, basil, italian sausage, roma tomatoes, olives, and pesto',
       price: '$19.99',
-      button: 'Add to Cart'
+      button: 'Đặt ngay'
     },
     {
       img: sweet2,
@@ -52,7 +52,7 @@ export const productData = [
       desc:
         ' Marinara sauce, basil, italian sausage, roma tomatoes, olives, and pesto',
       price: '$16.99',
-      button: 'Add to Cart'
+      button: 'Đặt ngay'
     },
     {
       img: sweet3,
@@ -61,6 +61,6 @@ export const productData = [
       desc:
         ' Marinara sauce, basil, italian sausage, roma tomatoes, olives, and pesto',
       price: '$14.99',
-      button: 'Add to Cart'
+      button: 'Đặt ngay'
     }
   ];
