@@ -1,4 +1,4 @@
-import React from 'react'
+
 import styled from 'styled-components'
 import ImgBg from '../../images/pizza-3.jpg'
 
@@ -29,6 +29,10 @@ export const HeroItems = styled.div`
     text-transform: uppercase;
     line-height: 1;
     font-weight: bold;
+    
+    @media screen and (max-width: 650px) {
+        width: 100%;
+    }
 `
 
 export const HeroH1 = styled.h1`
